@@ -1,1 +1,1 @@
-BlackJack game developed as a part of Javascript courses from Scrimba
+BlackJack game developed as a part of the Javascript course from Scrimba
