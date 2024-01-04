@@ -12,4 +12,4 @@ A dynamic and interactive Blackjack game built using HTML, CSS, and JavaScript.
 * JavaScript: Powers the game logic and user interactions.
 
 
-### This game was developed as a part of a javscript course offered by scrimba
+### This game was developed as a part of a javascript course offered by scrimba
